@@ -1,6 +1,6 @@
-# Non deterministic pushdown automaton
+# Nondeterministic pushdown automaton
 
-This program receives a non deterministic pushdown automaton especified in a JSON file and a word, and checks if the word is recognized by the automaton.
+This program reads a nondeterministic pushdown automaton especified in a JSON file, and receives a word as input, then checks if the word is recognized by the automaton.
 
 ## Format of the automaton file
 
